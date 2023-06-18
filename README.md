@@ -1,6 +1,7 @@
-![logo](https://github.com/shailovesingh/shailovesingh/blob/Data-science/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 <h1 align="center">Hi 👋, I'm Shailove Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+
+![chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576](https://github.com/shailovesingh/shailovesingh/assets/124027365/20cfa7da-aa79-476f-b82e-11a612d02ee5)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailovesingh&label=Profile%20views&color=0e75b6&style=flat" alt="shailovesingh" /> </p>
 
