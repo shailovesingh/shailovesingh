@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailove Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width"400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F923097254842446708%2F&psig=AOvVaw3chAOy4YR5P1ZKXQtBVw11&ust=1687173024471000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMD83cHXzP8CFQAAAAAdAAAAABAD.gif">
+<img align="right" alt="coding" width"400" src="chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailovesingh&label=Profile%20views&color=0e75b6&style=flat" alt="shailovesingh" /> </p>
 
