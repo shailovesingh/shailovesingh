@@ -1,3 +1,4 @@
+![logo](https://github.com/shailovesingh/shailovesingh/blob/Data-science/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 <h1 align="center">Hi 👋, I'm Shailove Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
