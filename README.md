@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailovesingh&label=Profile%20views&color=0e75b6&style=flat" alt="shailovesingh" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Data Analysis, Cyber security, Animation , Etc.**
+- 🌱 I’m currently learning **Ai engineer, Data Science, Data Analysis, Animation , Etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shailovesingh?tab=repositories](https://github.com/shailovesingh?tab=repositories)
 
