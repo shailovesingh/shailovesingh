@@ -12,6 +12,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://svgshare.com/i/your_custom_anime_banner.svg" alt="anime banner" width="900" />
+</p>
 
 ## 🎛️ About me
 I'm **Shailove Singh** — AI developer focusing on **Generative AI** and **Agentic / multi-agent systems**. Skilled in building intelligent LLM-powered systems, multi-agent workflows, and autonomous AI solutions. Proficient in Python, LangChain, LangGraph, Microsoft Autogen, and OpenAI APIs, with strong expertise in prompt engineering, RAG, and vector embeddings. Hands-on experience with Hugging Face, TensorFlow, PyTorch, and cloud platforms like AWS, Azure ML, and GCP. Adept at deploying scalable AI pipelines using FAISS, Pinecone, and CI/CD tools such as GitHub Actions.
