@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/shailovesingh/shailovesingh/blob/Data-science/ChatGPT%20Image%20Nov%208%2C%202025%2C%2012_42_07%20AM.png" alt="anime banner" width="900" />
+  <img src="https://github.com/shailovesingh/shailovesingh/blob/Data-science/an-anime-style-digital-illustration-feat_wrKR8GiOSYOJSLD-TzXBMw_EfRoJh8eQ7mrHbZj6uYpog.jpeg" alt="anime banner" width="900" />
 </p>
 
 ## 🎛️ About me
