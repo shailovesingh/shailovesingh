@@ -11,7 +11,7 @@
 ---
 
 ## 🎛️ About me
-Neon-lit gamer aesthetic, hacker-studio energy. I'm **Shailove Singh** — AI developer focusing on **Generative AI** and **Agentic / multi-agent systems**. I build autonomous pipelines, RAG-backed assistants, and agent orchestrations that can plan, retrieve, and act.
+I'm **Shailove Singh** — AI developer focusing on **Generative AI** and **Agentic / multi-agent systems**. Skilled in building intelligent LLM-powered systems, multi-agent workflows, and autonomous AI solutions. Proficient in Python, LangChain, LangGraph, Microsoft Autogen, and OpenAI APIs, with strong expertise in prompt engineering, RAG, and vector embeddings. Hands-on experience with Hugging Face, TensorFlow, PyTorch, and cloud platforms like AWS, Azure ML, and GCP. Adept at deploying scalable AI pipelines using FAISS, Pinecone, and CI/CD tools such as GitHub Actions.
 
 > ⚡ Focus: Agent orchestration · RAG · LLM chains · Prompt engineering · Production-ready ML infra
 
@@ -31,7 +31,7 @@ Neon-lit gamer aesthetic, hacker-studio energy. I'm **Shailove Singh** — AI de
 ---
 
 ## 🛠️ Tech Stack
-`Python` • `TypeScript` • `PyTorch` • `Transformers` • `Hugging Face` • `JAX` • `LangGraph` • `LangChain` • `Docker` • `FastAPI` • `Streamlit` • `Postgres` • `Redis`
+`Python` • `Microsoft Autogen` • ` Crew Ai` • `Transformers` • `Hugging Face` • `AWS` • `LangGraph` • `LangChain` • `Docker` • `FastAPI` • `Streamlit` • `Postgres` • `MLOPS`
 
 ---
 
@@ -72,24 +72,3 @@ Neon-lit gamer aesthetic, hacker-studio energy. I'm **Shailove Singh** — AI de
 <p align="center">
   <sub>Press ▶ to collab — star ⭐ a repo if you like what you see. Level up together. ⚔️✨</sub>
 </p>
-
----
-
-## 📋 How to install / use
-1. Create a repository named exactly `shailovesingh` (if you haven't already).  
-2. Copy-paste the entire contents of this README into the repo's `README.md`.  
-3. The GitHub stats cards update automatically (no extra setup).  
-4. Update **Featured Projects** links with your real repositories.  
-5. Tweak any text or theme colors as you like.
-
----
-
-## ⚙️ Customization tips
-- Change the `theme` parameter in the GitHub stats image URL (`tokyonight`, `radical`, `dark`, `merko`, etc.) to match a different palette.  
-- Replace the typing SVG text to add more lines or personalize the message.  
-- Swap the banner for an image if you want a larger custom art header.
-
----
-
-Thanks for letting me build this for you — drop a message if you want a pastel **anime** version, or a variant with a custom banner image. Happy coding! ✨
-
