@@ -47,7 +47,7 @@ I'm **Shailove Singh** — AI developer focusing on **Generative AI** and **Agen
 
 
 - [Agentic-PDF-to-Excel-Data-Extractor
-]([https://github.com/shailovesingh/Neon-Agent](https://github.com/shailovesingh/Agentic-PDF-to-Excel-Data-Extractor)) —AI Agent Workflow that extracts structured data from unstructured PDFs.  
+](https://github.com/shailovesingh/Agentic-PDF-to-Excel-Data-Extractor) —AI Agent Workflow that extracts structured data from unstructured PDFs.  
 - [Agentic Data Analytics Assistant](https://github.com/shailovesingh/GenSketch) — Agentic data analytics assistant that helps users explore CSV datasets using natural language.  
 - [QueryGPT](https://github.com/shailovesingh/QueryGPT) — Text-to-SQL multi-agent engine with RAG and schema-aware planning.
 
