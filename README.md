@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://svgshare.com/i/your_custom_anime_banner.svg" alt="anime banner" width="900" />
-</p>
 # 𝕊𝕙𝕒𝕚𝕝𝕠𝕧𝕖 ⚔️🎮 — AI Dev · GenAI · Agentic AI
 
 <p align="center">
