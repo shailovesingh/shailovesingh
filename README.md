@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shailovesingh&color=blue" alt="profile views" />
+  <img src="[https://komarev.com/ghpvc/?username=shailovesingh&color=blue](https://github.com/shailovesingh/shailovesingh/blob/Data-science/ChatGPT%20Image%20Nov%208%2C%202025%2C%2012_42_07%20AM.png)" alt="profile views" />
 </p>
 
 ---
