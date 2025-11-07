@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://svgshare.com/i/your_custom_anime_banner.svg" alt="anime banner" width="900" />
+</p>
 <!-- Anime-themed GitHub Profile README for shailovesingh -->
 # 𝕊𝕙𝕒𝕚𝕝𝕠𝕧𝕖 — 𝔸𝕀 𝔻𝕖𝕧 · 𝔾𝕖𝕟𝔸𝕀 · 𝔸𝕘𝕖𝕟𝕥𝕚𝕔 𝔸𝕀 ✦🌸
 
