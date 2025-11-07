@@ -44,10 +44,11 @@ I'm **Shailove Singh** — AI developer focusing on **Generative AI** and **Agen
 ---
 
 ## ✨ Featured Projects
-> Replace the links with your actual repo URLs if they differ.
 
-- [Neon-Agent](https://github.com/shailovesingh/Neon-Agent) — Multi-agent orchestration toolkit for domain automation.  
-- [GenSketch](https://github.com/shailovesingh/GenSketch) — Generative prototyping assistant (images + prompts).  
+
+- [Agentic-PDF-to-Excel-Data-Extractor
+]([https://github.com/shailovesingh/Neon-Agent](https://github.com/shailovesingh/Agentic-PDF-to-Excel-Data-Extractor)) —AI Agent Workflow that extracts structured data from unstructured PDFs.  
+- [Agentic Data Analytics Assistant](https://github.com/shailovesingh/GenSketch) — Agentic data analytics assistant that helps users explore CSV datasets using natural language.  
 - [QueryGPT](https://github.com/shailovesingh/QueryGPT) — Text-to-SQL multi-agent engine with RAG and schema-aware planning.
 
 ---
@@ -68,7 +69,7 @@ I'm **Shailove Singh** — AI developer focusing on **Generative AI** and **Agen
 
 ---
 
-## 🎮 Gaming / Cyber Vibes Footer
+## 🎮 Footer
 <p align="center">
   <sub>Press ▶ to collab — star ⭐ a repo if you like what you see. Level up together. ⚔️✨</sub>
 </p>
