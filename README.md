@@ -53,12 +53,12 @@ I'm **Shailove Singh** — AI developer focusing on **Generative AI** and **Agen
 ](https://github.com/shailovesingh/Agentic-PDF-to-Excel-Data-Extractor) —AI Agent Workflow that extracts structured data from unstructured PDFs.  
 - [Agentic Data Analytics Assistant](https://github.com/shailovesingh/GenSketch) — Agentic data analytics assistant that helps users explore CSV datasets using natural language.  
 - [QueryGPT](https://github.com/shailovesingh/QueryGPT) — Text-to-SQL multi-agent engine with RAG and schema-aware planning.
-- [Agentic-Chatbot](https://github.com/shailovesingh/Agentic-Chatbot) — Multi-agent chatbot (RAG, function calling, modular agents). fileciteturn0file0  
-- [Shailove-Ai](https://github.com/shailovesingh/Shailove-Ai) — Multimodal assistant (chat, image gen, TTS, code assist). fileciteturn0file0  
-- [SmartSpend-Ai](https://github.com/shailovesingh/SmartSpend-Ai) — Financial insights tool for bank CSVs (privacy-friendly Streamlit app). fileciteturn0file0  
-- [Smart-Order-Replenishment](https://github.com/shailovesingh/Smart-Order-Replenishment) — Inventory forecasting & replenishment tool. fileciteturn0file0  
-- [MCP-Langgraph](https://github.com/shailovesingh/MCP-Langgraph) — Microservice prototype for LangGraph-style flows. fileciteturn0file0  
-- [Search-Engine](https://github.com/shailovesingh/Search-Engine) — Real-time web/document search with LangChain agents. fileciteturn0file0  
+- [Agentic-Chatbot](https://github.com/shailovesingh/Agentic-Chatbot) — Multi-agent chatbot (RAG, function calling, modular agents).
+- [Shailove-Ai](https://github.com/shailovesingh/Shailove-Ai) — Multimodal assistant (chat, image gen, TTS, code assist).  
+- [SmartSpend-Ai](https://github.com/shailovesingh/SmartSpend-Ai) — Financial insights tool for bank CSVs (privacy-friendly Streamlit app). 
+- [Smart-Order-Replenishment](https://github.com/shailovesingh/Smart-Order-Replenishment) — Inventory forecasting & replenishment tool.
+- [MCP-Langgraph](https://github.com/shailovesingh/MCP-Langgraph) — Microservice prototype for LangGraph-style flows.
+- [Search-Engine](https://github.com/shailovesingh/Search-Engine) — Real-time web/document search with LangChain agents. 
 - [6-Chat-SQL / 8-MathsGPT](https://github.com/shailovesingh/6-Chat-SQL) · (https://github.com/shailovesingh/8-MathsGPT) — SQL assistant & Math reasoning agent prototypes. fileciteturn0file0
 
 ---
