@@ -1,6 +1,7 @@
 # 𝕊𝕙𝕒𝕚𝕝𝕠𝕧𝕖 ⚔️🎮 — AI Dev · GenAI · Agentic AI
 
 <p align="center">
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=7C3AED&width=780&lines=Shailove+Singh+%E2%9D%A4%EF%B8%8F+AI+Dev+%E2%9A%A1;Generative+AI+%E2%9D%A4%EF%B8%8F+Agentic+Systems;Level+Up+%E2%9A%99%E2%9C%A8" alt="typing" />
 </p>
 
